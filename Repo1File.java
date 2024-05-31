@@ -1,4 +1,5 @@
-public class Repo1File
-{
-    system.out.println("hello");
+class AB {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
